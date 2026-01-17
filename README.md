@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/klaas-sh/cli/main/logo.svg" alt="klaas logo" width="80" height="80">
-</p>
-
-<h1 align="center">klaas</h1>
-
-<p align="center">
-  <strong>Remote terminal access for agentic coding tools</strong><br>
-  Stream your sessions to any device with E2EE
+  <a href="https://klaas.sh">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/klaas-sh/cli/main/logo-banner-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/klaas-sh/cli/main/logo-banner-light.svg">
+      <img src="https://raw.githubusercontent.com/klaas-sh/cli/main/logo-banner-dark.svg" alt="klaas - Remote Terminal Access" height="80">
+    </picture>
+  </a>
 </p>
 
 <p align="center">
