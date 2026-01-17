@@ -1,6 +1,6 @@
 {
   "name": "klaas",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "Remote access wrapper for Claude Code - DEPRECATED: Use native installer instead",
   "author": "magikMaker",
   "bin": "./bin/klaas.js",
